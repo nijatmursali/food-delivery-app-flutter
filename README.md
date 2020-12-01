@@ -1,6 +1,6 @@
-# food_delivery
+# Introduction
 
-A new Flutter project.
+This is the finished Flutter app with UI design of the foods and restaurants. 
 
 ## Getting Started
 
